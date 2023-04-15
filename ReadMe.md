@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working @ ![atelierundfriends.de](https://atelierundfriends.de) as a Fullstack Dev <br>🌱 I’m currently learning T3 + TS<br>🏡 Working @ home most of the time<br> 👪 Family time is most important for me
+🔭 I’m currently working @ ![atelierundfriends.de](https://atelierundfriends.de) as the Software Team Lead <br>🌱 🏡 Working @ home most of the time<br> 👪 Family time is most important for me
 
 # 💻 Tech Stack:
 
